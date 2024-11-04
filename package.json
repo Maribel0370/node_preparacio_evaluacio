@@ -1,0 +1,30 @@
+{
+  "name": "node_prepariacio_evaluacio",
+  "version": "0.0.1",
+  "description": "Ensayo evaluación NodeJs - Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maribel0370/node_preparacio_evaluacioç.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "Express"
+  ],
+  "author": "Maribel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maribel0370/node_preparacio_evaluacioç/issues"
+  },
+  "homepage": "https://github.com/Maribel0370/node_preparacio_evaluacioç#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
